@@ -1,1 +1,21 @@
+< !DOCTYPE html>
+<html>
+<head>
+<title>One page website layout</title>
+<body>
+  <nav>
+   <ul>
+       <li><a href ="section1">Home</a></li>
+        <li><a href ="section1">Home</a></li>
+        <li><a href ="section1">Home</a></li>
+        <li><a href ="section1">Home</a></li>
+        <li><a href ="section1">Home</a></li>
+       </ul>
+        </nav>
+        </body>
+        </html>
+        
+        
+       
+       
 
